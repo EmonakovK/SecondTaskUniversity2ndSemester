@@ -1,0 +1,3 @@
+Dots in sphere:
+Dot number 1
+0 0 0
